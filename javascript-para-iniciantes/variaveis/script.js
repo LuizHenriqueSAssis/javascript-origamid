@@ -1,32 +1,24 @@
-var nome = 'André';
+var nome = 'Andre';
 var idade = 28;
-var possuiFaculdade = true
-
+var possuiFaculdade = true;
 console.log(nome, idade, possuiFaculdade);
 
 var preco = 25;
-var totalcomprado =5;
-var totalPreco = totalcomprado * preco;
-console.log('R$',totalPreco)
+var totalComprado = 5;
+var totalPreco = totalComprado * preco ;
+
+console.log(totalPreco);
 
 var sobrenome = 'Rafael', 
-    cidade = 'Rio';
+cidade = 'Rio';
 
-console.log(sobrenome,cidade);
+console.log(sobrenome, cidade)
 
-var semDefinir;
-console.log(semDefinir)
+const Nome = 'Luiz';
+let Idade = '21';
+var comidaFavorita ;
+comidaFavorita = 'frango';
 
-//Exercício 
+var fut, bol, back, full, size;
 
-const meuNome = 'Luiz';
-const minhaIdade = 21;
-let comidaFavorita;
-comidaFavorita = 'Hambureguer'
-
-let n1 = 'teste',
-    n2,
-    n3,
-    n5;
-
-console.log(meuNome,minhaIdade,comidaFavorita);
+console.log(Nome,Idade,comidaFavorita,)
